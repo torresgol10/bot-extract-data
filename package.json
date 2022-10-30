@@ -1,0 +1,18 @@
+{
+  "name": "bot-crawler-idealista",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Torres <torresgol10.itd@gmail.com> (https://torresgol10.github.io/lazyload-image-scroll/index.html)",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "playwright-core": "^1.27.1",
+    "playwright-extra": "^4.3.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
